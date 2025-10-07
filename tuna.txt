@@ -1,0 +1,1 @@
+hello https://github.com/dhjs0000/vsenv-plugins/releases/download/hello-1.0.0/hello.vsep
